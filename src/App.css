@@ -1,0 +1,39 @@
+body {
+  background-color: #cccccc;
+}
+.main {
+  width: 30%;
+  margin: auto;
+}
+.navbar {
+  background-color: #665B2E;
+  padding: 20px;
+}
+.products {
+  background-color: #665B2E;
+  padding: 20px;
+  margin: 20px 0;
+}
+button {
+  background-color: #616066;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  margin-right: 20px;
+  font-style: italic;
+}
+.counter {
+  margin-left: 89px;
+}
+button:hover {
+  cursor: pointer;
+  color: white;
+  background-color: black;
+}
+h2 {
+  font-style: italic;
+  font-weight: bold;
+}
+p {
+  font-weight: bold;
+}
